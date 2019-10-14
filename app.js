@@ -1,6 +1,6 @@
-const url = 'http://numbersapi.com/random/year?json';
 const fetch = require('node-fetch');
 const year = process.argv[2];
+const url = `http://numbersapi.com/${year ? year : 'random'}/year?json`;
 
 
 
