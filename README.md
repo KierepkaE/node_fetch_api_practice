@@ -1,8 +1,7 @@
 # node_fetch_api_practice
 
 ###### Simple command line app
-
-- You can get information about a specific year that you choose.
+> You can get information about a specific year that you choose.
 
 #### How to use?
 
